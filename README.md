@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jithendra V Anand
-### 🎓 BTech Cyber Security Student | 🛡️ Security Researcher | 🚀 Full-Stack Developer
+### 🎓 BTech Cyber Security Student | 🛡️ Security Focused Developer | 🚀 Full-Stack Developer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jithu2006/">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Security-first+mindset;Building+production+products;Vulnerability+Analysis;AI+Security+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Security-first+mindset;Building real production systems;API & vulnerability analysis;AI-assisted secure systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,6 +18,13 @@
 * **Secure Development:** Hardening Android, Web, and APIs.
 * **AI + Security:** Building AI systems with security considerations.
 * **Product Engineering:** Building real products, not just demos.
+
+---
+
+### 🔐 Security Work Highlights
+- Hands-on API security testing
+- Focus on identifying real attack surfaces, not just theory
+- Applying security controls while building full-stack systems
 
 ---
 

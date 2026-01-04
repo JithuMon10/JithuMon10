@@ -2,7 +2,7 @@
 ### 🎓 BTech Cyber Security Student | 🛡️ Security Focused Developer | 🚀 Full-Stack Architect
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Relentless+Developer+Dedication;Building+Production-Ready+Systems;API+%26+Vulnerability+Analysis;Deep+Focus+on+Secure+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Systems;API+%26+Vulnerability+Analysis;Deep+Focus+on+Secure+Architecture;Relentless+Developer+Dedication" alt="Typing SVG" />
 </p>
 
 <p align="center">

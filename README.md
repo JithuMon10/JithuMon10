@@ -39,11 +39,11 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JithuMon10&show_icons=true&theme=neon&rank_icon=github&border_radius=10" alt="Jithu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JithuMon10&show_icons=true&theme=neon&rank_icon=github&border_radius=10&v=1" alt="Jithu's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithuMon10&layout=compact&theme=neon&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithuMon10&layout=compact&theme=neon&border_radius=10&v=1" alt="Top Langs" />
 </p>
 
 ---

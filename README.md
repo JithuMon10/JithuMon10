@@ -26,7 +26,7 @@ I don't just write code; I engineer resilient digital environments.
   <tr>
     <td align="center" width="50%">
       <h3><span style="color: #FF66B2;">Security & Research</span></h3>
-      <p>🛡️ API Penetration Testing (OWASP)</p>
+      <p>🛡️ API Vulnerablity Testing</p>
       <p>🔐 End-to-End Encryption (E2EE)</p>
       <p>🔍 Attack Surface Analysis</p>
       <p>📱 Hardened Mobile Environments</p>

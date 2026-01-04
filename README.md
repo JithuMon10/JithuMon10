@@ -29,21 +29,21 @@
 ---
 
 ### 🚀 Highlight Projects
-* 🛠️ **[TITAN Forge IDE](https://github.com/JithuMon10/TITAN-Forge-IDE)** – AI-powered developer platform.
+* 🛠️ **[TITAN Forge](https://github.com/JithuMon10/TITAN-Forge-IDE)** – AI-powered developer platform.
 * 🌍 **[Velora](https://github.com/JithuMon10/Velora-AI-Powered-Multi-Modal-Travel-Assistant)** – AI-based multi-modal travel assistant.
 * 🏥 **[DocAtHome](https://github.com/JithuMon10/DocAtHome)** – Telemedicine & healthcare platform.
-* 🍔 **[JFC Self-Ordering](https://github.com/JithuMon10/JFC-Self-Ordering-System)** – Digital kiosk system.
-* 🖨️ **[JPS Studio](https://github.com/JithuMon10/JPS-Jithu-Printing-Services)** – Android app for order & print management.
+* 🍔 **[JFC System](https://github.com/JithuMon10/JFC-Self-Ordering-System)** – Digital kiosk system.
+* 🖨️ **[JPS Studio](https://github.com/JithuMon10/JPS-Jithu-Printing-Services)** – Android order management.
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JithuMon10&show_icons=true&theme=neon&rank_icon=github&border_radius=10&v=1" alt="Jithu's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JithuMon10&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithuMon10&layout=compact&theme=neon&border_radius=10&v=1" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JithuMon10&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---

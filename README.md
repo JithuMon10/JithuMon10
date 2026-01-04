@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Jithendra V Anand
 ### 🎓 BTech Cyber Security Student | 🛡️ Security Researcher | 🚀 Full-Stack Developer
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jithu2006/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-VISIT%20MY%20CERTIFICATES-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&width=500&lines=Security-first+mindset;Building+production+products;Vulnerability+Analysis;AI+Security+Systems" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Security-first+mindset;Building+production+products;Vulnerability+Analysis;AI+Security+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,10 +40,8 @@
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JithuMon10&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JithuMon10&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JithuMon10&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
 ---

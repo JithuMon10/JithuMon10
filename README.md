@@ -1,9 +1,3 @@
-<!-- ==================================================
-COMBINED THEME
-Top: Theme 2 (Gradient Clean Header)
-Body: Theme 3 (Futuristic Blue / Tech-focused)
-Alignment-safe • Load-safe • No gimmicks
-================================================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hello%2C%20I%E2%80%99m%20Jithendra&fontSize=38&fontAlignY=55" />

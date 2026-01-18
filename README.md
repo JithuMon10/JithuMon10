@@ -1,76 +1,86 @@
-# 👋 Hello, I'm <span style="color: #00FFCC;">Jithendra V Anand</span> 
-### 🎓 BTech Cyber Security Student | 🛡️ Security Focused Developer | 🚀 Full-Stack Architect
+<!-- ==================================================
+COMBINED THEME
+Top: Theme 2 (Gradient Clean Header)
+Body: Theme 3 (Futuristic Blue / Tech-focused)
+Alignment-safe • Load-safe • No gimmicks
+================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Systems;API+%26+Vulnerability+Analysis;Deep+Focus+on+Secure+Architecture;Relentless+Developer+Dedication" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hello%2C%20I%E2%80%99m%20Jithendra&fontSize=38&fontAlignY=55" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jithu2006/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Jithu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-## ⚡ <span style="color: #00FFCC;">About Me</span>
-I am a security-driven developer who thrives on the challenge of building complex, high-performance systems. **My greatest weakness is my dedication**—once I commit to a project, I am relentlessly focused on perfecting every detail, from the user experience to the underlying security architecture. 
-
-I don't just write code; I engineer resilient digital environments.
-
----
-
-## 🛡️ <span style="color: #00FFCC;">Technical Arsenal</span>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3><span style="color: #FF66B2;">Security & Research</span></h3>
-      <p>🛡️ API Vulnerablity Testing</p>
-      <p>🔐 End-to-End Encryption (E2EE)</p>
-      <p>🔍 Attack Surface Analysis</p>
-      <p>📱 Hardened Mobile Environments</p>
-    </td>
-    <td align="center" width="50%">
-      <h3><span style="color: #9370DB;">Development Stack</span></h3>
-      <img src="https://skillicons.dev/icons?i=py,java,js,php,kotlin,android,linux,firebase,docker,mysql,html,css&theme=dark" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 <span style="color: #00FFCC;">Featured Operations</span>
-
-| Project | Specialization | Status |
-| :--- | :--- | :--- |
-| 🛠️ **[TITAN Forge](https://github.com/JithuMon10/TITAN-Forge-IDE)** | AI-Powered Security Research IDE | `Operational` |
-| 🌍 **[Velora](https://github.com/JithuMon10/Velora-AI-Powered-Multi-Modal-Travel-Assistant)** | AI Multi-Modal Transit Planner | `Live` |
-| 🏥 **[DocAtHome](https://github.com/JithuMon10/DocAtHome)** | E2EE WebRTC Telemedicine | `Stable` |
-| 🍔 **[JFC System](https://github.com/JithuMon10/JFC-Self-Ordering-System)** | High-Performance Kiosk Ecosystem | `Live` |
-| 🖨️ **[JPS Studio](https://github.com/JithuMon10/JPS-Jithu-Printing-Services)** | Offline-First Secure Android App | `Complete` |
-
----
-
-## 📊 <span style="color: #00FFCC;">System Activity</span>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JithuMon10&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JithuMon10&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="41%" />
+  <strong>Jithendra V Anand</strong> · <em>aka Jithu</em>
 </p>
 
 ---
 
-## 🏆 <span style="color: #00FFCC;">Experience & Intel</span>
-* 🎓 **Certified API Hacking Expert** – Focused on defensive API architecture and hardening.
-* 🛡️ **Product Engineer** – Shipping production-ready code with a focus on data privacy and encryption.
-* 🧠 **Constant Learner** – My obsession with quality ensures that I am always mastering the next protocol to stay ahead of the threat landscape.
+### About
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=JithuMon10&label=DATA%20TRANSFERRED&color=00FFCC&style=flat-square" />
+I’m **Jithendra**, a **BTech CyberSecurity student** who spends most of his time building systems.
+
+My work usually sits at the intersection of **AI, security, and full-stack engineering**. I care about clean boundaries, real-world behavior, and designs that hold up beyond demos.
+
+---
+
+### What I work on
+
+* AI-powered systems with real human signals
+* Security-aware and privacy-first designs
+* Full-stack applications with clear architecture
+* Developer tools where control and context matter
+
+---
+
+### Selected projects
+
+**ADHARA** — Early-warning system for learning friction using behavioral signals
+
+**TITAN Forge IDE** — Local-first AI-powered IDE with strict context authority
+
+**FluentFlow** — Real-time speech fluency analysis
+
+**Velora** — Multi-modal travel planning system
+
+---
+
+### Tools
+
+JavaScript · TypeScript · HTML · PHP · Kotlin · Node.js · MySQL · Firebase · Git · Linux
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JithuMon10&theme=blue-green&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithuMon10&layout=compact&theme=blue-green&hide_border=true" />
 </p>
 
 ---
 <p align="center">
-  <i>"Securing the future, one commit at a time."</i>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,php,kotlin,flutter,docker,postgres,mysql,firebase,git,linux&theme=dark" />
 </p>
+
+<p align="center">
+  <em>Languages & Frameworks</em>
+</p>
+
+
+### Connect
+
+* GitHub: [https://github.com/JithuMon10](https://github.com/JithuMon10)
+* LinkedIn: [https://www.linkedin.com/in/jithendra-v-anand/](https://www.linkedin.com/in/jithendra-v-anand/)
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JithuMon10&left_color=black&right_color=blue" />
+</p>
+
+<!--
+Design notes:
+- Gradient header for personality
+- Blue-green stats for technical seriousness
+- Text-first body to avoid AI/template vibes
+- Everything alignment-safe on GitHub
+-->

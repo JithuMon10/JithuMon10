@@ -4,11 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Jithendra%20V%20Anand&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20AI%20Systems%20Architect%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Building+AI-Powered+Systems+%F0%9F%94%AE;Security-First+%E2%80%A2+Privacy-Aware+%E2%80%A2+Production-Ready" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Building+AI-Powered+Systems+%F0%9F%94%AE" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p>
-  <a href="https://github.com/JithuMon10"><img src="https://img.shields.io/github/followers/JithuMon10?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636" alt="GitHub Followers"/></a>
   <a href="https://www.linkedin.com/in/jithendra-v-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=JithuMon10&style=for-the-badge&color=blueviolet&labelColor=0d1117&label=Profile+Views" alt="Profile Views"/>
 </p>
@@ -21,7 +20,7 @@
 
 ```yaml
 name: Jithendra V Anand
-role: Cybersecurity Engineer & Full-Stack Developer
+role: Cybersecurity Engineer undergraduate
 education: BTech Cybersecurity
 location: India 🇮🇳
 focus:

@@ -10,7 +10,6 @@
 <p>
   <a href="https://github.com/JithuMon10"><img src="https://img.shields.io/github/followers/JithuMon10?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636" alt="GitHub Followers"/></a>
   <a href="https://www.linkedin.com/in/jithendra-v-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-  <a href="mailto:jithumon10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=JithuMon10&style=for-the-badge&color=blueviolet&labelColor=0d1117&label=Profile+Views" alt="Profile Views"/>
 </p>
 
@@ -44,9 +43,6 @@ currently_building: Production-grade AI systems and security tools
 ### 🧠 ADHARA
 **AI-Powered Learning Friction Detector**
 > Early-warning system using behavioral signals to identify learning difficulties
-- Real-time behavioral analysis
-- Intervention recommendations
-- Privacy-first design
 
 [![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/ADHARA-AI-Powered-Learning-Friction)
 
@@ -56,9 +52,6 @@ currently_building: Production-grade AI systems and security tools
 ### ⚡ TITAN Forge IDE
 **Local-First AI Development Environment**
 > AI-powered IDE with strict context authority and secure execution
-- Local LLM integration
-- Context-aware code assistance
-- Zero data leakage
 
 [![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/TITAN-Forge-IDE)
 
@@ -70,9 +63,6 @@ currently_building: Production-grade AI systems and security tools
 ### 🗣️ FluentFlow
 **Real-Time Speech Analysis Platform**
 > AI-driven speech fluency analyzer with instant feedback
-- Live transcription & analysis
-- Fluency scoring algorithms
-- Progress tracking
 
 [![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/FluentFlow--AI-Powered-Speech-Analyser)
 
@@ -82,9 +72,6 @@ currently_building: Production-grade AI systems and security tools
 ### ✈️ Velora
 **Multi-Modal Travel Assistant**
 > AI-powered travel planning with real-time data integration
-- Multi-modal route optimization
-- Traffic & weather integration
-- Smart recommendations
 
 [![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/Velora-AI-Powered-Multi-Modal-Travel-Assistant)
 
@@ -95,10 +82,7 @@ currently_building: Production-grade AI systems and security tools
 
 ### 🏥 DocAtHome
 **Telemedicine Platform**
-> Complete telemedicine solution with WebRTC video calls
-- Real-time video consultations
-- Appointment management
-- Secure patient data
+> Complete telemedicine solution with WebRTC video consultations
 
 [![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/DocAtHome)
 
@@ -107,12 +91,69 @@ currently_building: Production-grade AI systems and security tools
 
 ### 🔍 TITAN Web Analyser
 **Security Analysis Tool**
-> Comprehensive web security scanner and analyzer
-- Vulnerability detection
-- Security audit reports
-- Automated scanning
+> Comprehensive web security scanner and vulnerability detector
 
 [![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/TITAN-Web-Analyser)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏙️ OptiSpace GIS
+**Digital Twin Platform**
+> GIS-based digital twin for urban space optimization
+
+[![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/OptiSpace-GIS-Digital-Twin)
+
+</td>
+<td width="50%">
+
+### 🎭 EmotiSense
+**AI Face Emotion Analyser**
+> Real-time facial emotion detection and analysis system
+
+[![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/EmotiSense-AI-Powered-Face-Analyser)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏫 CampusFlow
+**Smart Campus Management**
+> Integrated campus management and automation system
+
+[![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/CampusFlow)
+
+</td>
+<td width="50%">
+
+### 📢 AI Smart City Assistant
+**Complaint Management System**
+> AI-powered smart city complaint routing and resolution
+
+[![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/AI-Smart-City-Complaint-Assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 MovieMonk AI
+**Intelligent Movie Recommendations**
+> AI-driven movie discovery and recommendation engine
+
+[![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/Moviemonk-AI)
+
+</td>
+<td width="50%">
+
+### 🔬 TremorScope
+**Medical Tremor Analysis**
+> AI-based tremor detection and analysis for medical diagnostics
+
+[![View Project](https://img.shields.io/badge/View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/JithuMon10/TremorScope)
 
 </td>
 </tr>
@@ -144,35 +185,6 @@ currently_building: Production-grade AI systems and security tools
   <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,figma&theme=dark" />
 </p>
 
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JithuMon10&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9&ring_color=238636" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JithuMon10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithuMon10&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JithuMon10&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
-<br>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JithuMon10&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636&hide_border=true" width="100%"/>
 </div>
 
 ---

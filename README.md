@@ -8,7 +8,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/jithendra-v-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jithu2006/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=JithuMon10&style=for-the-badge&color=blueviolet&labelColor=0d1117&label=Profile+Views" alt="Profile Views"/>
 </p>
 
